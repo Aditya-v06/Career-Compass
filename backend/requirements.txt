@@ -1,0 +1,8 @@
+# requirements.txt for Personalized Career Advisor
+flask
+flask-cors
+python-dotenv
+google-generativeai
+transformers
+pdfkit
+gunicorn

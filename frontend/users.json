@@ -1,0 +1,26 @@
+[
+    {
+        "username": "Siddharth",
+        "age": 19,
+        "email": "sbijalwan2006@gmail.com",
+        "password": "sid12345"
+    },
+    {
+        "username": "Aditya",
+        "age": 19,
+        "email": "vakadiaadi@gmail.com",
+        "password": "adi12345"
+    },
+    {
+        "username": "Meet",
+        "age": 19,
+        "email": "meetrg15@gmail.com",
+        "password": "meet12345"
+    },
+    {
+        "username": "sid",
+        "age": 19,
+        "email": "siddharthbijalwan2006@gmail.com",
+        "password": "hell12345"
+    }
+]
